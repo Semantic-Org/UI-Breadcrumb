@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-breadcrumb",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.0.0",
+>>>>>>> 34d481780829047cf869803e70074107f6ad30af
   "title": "Semantic UI - Breadcrumb",
   "description": "Single component release of breadcrumb",
   "homepage": "http://www.semantic-ui.com",
@@ -13,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+<<<<<<< HEAD
+=======
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+>>>>>>> 34d481780829047cf869803e70074107f6ad30af
   "devDependencies": {}
 }
