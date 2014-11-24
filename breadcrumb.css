@@ -88,28 +88,28 @@
 *******************************/
 
 .ui.mini.breadcrumb {
-  font-size: 0.71428571rem;
+  font-size: 0.65em;
 }
 .ui.tiny.breadcrumb {
-  font-size: 0.85714286rem;
+  font-size: 0.7em;
 }
 .ui.small.breadcrumb {
-  font-size: 0.92857143rem;
+  font-size: 0.75em;
 }
 .ui.breadcrumb {
-  font-size: 1rem;
+  font-size: 1em;
 }
 .ui.large.breadcrumb {
-  font-size: 1.14285714rem;
+  font-size: 1.1em;
 }
 .ui.big.breadcrumb {
-  font-size: 1.28571429rem;
+  font-size: 1.05em;
 }
 .ui.huge.breadcrumb {
-  font-size: 1.42857143rem;
+  font-size: 1.3em;
 }
 .ui.massive.breadcrumb {
-  font-size: 1.71428571rem;
+  font-size: 1.5em;
 }
 
 
