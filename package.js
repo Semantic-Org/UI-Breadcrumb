@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-breadcrumb',
   summary : 'Semantic UI - Breadcrumb: Single component release',
-  version : '1.11.1',
+  version : '1.11.2',
   git     : 'git://github.com/Semantic-Org/UI-Breadcrumb.git',
 });
 
